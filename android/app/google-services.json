@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "275433899297",
+    "project_id": "recipe-scanner-6c67f",
+    "storage_bucket": "recipe-scanner-6c67f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275433899297:android:16d2bfe857f6e538ddaa60",
+        "android_client_info": {
+          "package_name": "duodev.cooktime.cooktime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275433899297-oskc9t78uun1ufc82ruasct8lt1uinl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU9IoNYSrgGZesvG0foiBvIJNNlHZICKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275433899297-oskc9t78uun1ufc82ruasct8lt1uinl3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "275433899297-tve7so63clnhqdvdjtalvpticuf3g0ji.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "duodev.cooktime.cooktime"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
